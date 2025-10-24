@@ -17,3 +17,6 @@ https://phst.hateblo.jp/entry/2023/11/01/080000
 ## IOC set-up
 From
 https://github.com/FlorianBen/small_epics_distrib
+
+python main.py
+
